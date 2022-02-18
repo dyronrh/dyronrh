@@ -39,6 +39,43 @@ Here are some ideas to get you started:
 </table>
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+```
+export class DayronRemigio extend fullstack,devops,arquitect {
+	const name = 'dayron';
+	const last_name = 'remigio';
+	const birsthday = '1984-03-19';
+	const country   = 'cuba';
+	let skills      = ['springboot','angular','react','django','nodejs','jenkin','docker','kubernetes','aws','terraform','githubacition']
+	let eterprise = 'Klap'
+
+	public void DayronRemigio(){}
+
+	private void addNewSkill(string new_skill){
+	        this.skills.push(new_skill);
+	}
+
+	public void newTask(task new_task){
+	        dayron_clone = new DayronRemigio();
+	        dayron_clone.execute(new_task);
+	}
+
+	public void newPipeline(string repository){
+	        dayron_clone = new DayronRemigio();
+	        dayron_clone.create_pipeline(new_task);
+	}
+
+	public bool problemResolutor(string problem_description){
+	       dayron_clone = new DayronRemigio();
+	       return dayron_clone.solve_problem(problem_description)
+    }
+	public bool colaborateSolutions(string problem_description, developer colega_name){
+	       dayron_clone = new DayronRemigio();
+	       problem_solution = dayron_clone.problemResolutor(problem_description);
+	       colega_name.getGetSolution(problem_solution);
+    }    
+
+}
+```
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 developer --> DevOps --> Aquitect
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 atlazkoin
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Pinar del Rio,Cuba, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 2009
