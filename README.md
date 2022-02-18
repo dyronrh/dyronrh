@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dyronrh/dyronrh/master/header.gig" alt="👋 Hi there! I'm dayron" title="👋 Hi there! I'm dayron"/>
+<img src="https://raw.githubusercontent.com/dyronrh/dyronrh/master/header.gif" alt="👋 Hi there! I'm dayron" title="👋 Hi there! I'm dayron"/>
 
 
 <!--
