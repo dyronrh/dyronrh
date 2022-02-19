@@ -9,6 +9,16 @@
 
 <img src="https://raw.githubusercontent.com/dyronrh/dyronrh/master/header.gif" alt="👋 Hi there! I'm dayron" title="👋 Hi there! I'm dayron"/>
 
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/dayron-regio-950b77133mi/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/dddyron/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Fullstack Developer --> DevOps  --> Aquitect
@@ -69,7 +79,6 @@
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/dayron-regio-950b77133mi/">
@@ -80,3 +89,5 @@
   </a>&nbsp;&nbsp;
   
 </p>
+
+
