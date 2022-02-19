@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A fullstack developer, devops engienear and currently at arquitect, Chile.
+  A fullstack developer, devops engineer and currently at arquitect, Chile.
 </p>
 
 
